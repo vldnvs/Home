@@ -1,0 +1,17 @@
+E:\AllMyCodingProjects\Home\TicTacToeGame\bin\Debug\net7.0-windows\TicTacToeGame.exe
+E:\AllMyCodingProjects\Home\TicTacToeGame\bin\Debug\net7.0-windows\TicTacToeGame.deps.json
+E:\AllMyCodingProjects\Home\TicTacToeGame\bin\Debug\net7.0-windows\TicTacToeGame.runtimeconfig.json
+E:\AllMyCodingProjects\Home\TicTacToeGame\bin\Debug\net7.0-windows\TicTacToeGame.dll
+E:\AllMyCodingProjects\Home\TicTacToeGame\bin\Debug\net7.0-windows\TicTacToeGame.pdb
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.csproj.AssemblyReference.cache
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.MainForm.resources
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.csproj.GenerateResource.cache
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.AssemblyInfoInputs.cache
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.AssemblyInfo.cs
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.csproj.CoreCompileInputs.cache
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.dll
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\refint\TicTacToeGame.dll
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.pdb
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\TicTacToeGame.genruntimeconfig.cache
+E:\AllMyCodingProjects\Home\TicTacToeGame\obj\Debug\net7.0-windows\ref\TicTacToeGame.dll

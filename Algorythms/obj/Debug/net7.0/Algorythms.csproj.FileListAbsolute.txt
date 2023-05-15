@@ -1,0 +1,15 @@
+E:\AllMyCodingProjects\Home\Algorythms\bin\Debug\net7.0\Algorythms.exe
+E:\AllMyCodingProjects\Home\Algorythms\bin\Debug\net7.0\Algorythms.deps.json
+E:\AllMyCodingProjects\Home\Algorythms\bin\Debug\net7.0\Algorythms.runtimeconfig.json
+E:\AllMyCodingProjects\Home\Algorythms\bin\Debug\net7.0\Algorythms.dll
+E:\AllMyCodingProjects\Home\Algorythms\bin\Debug\net7.0\Algorythms.pdb
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.csproj.AssemblyReference.cache
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.AssemblyInfoInputs.cache
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.AssemblyInfo.cs
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.csproj.CoreCompileInputs.cache
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.dll
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\refint\Algorythms.dll
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.pdb
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\Algorythms.genruntimeconfig.cache
+E:\AllMyCodingProjects\Home\Algorythms\obj\Debug\net7.0\ref\Algorythms.dll
