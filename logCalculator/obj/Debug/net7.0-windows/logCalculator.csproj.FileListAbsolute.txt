@@ -1,0 +1,17 @@
+E:\AllMyCodingProjects\Home\logCalculator\bin\Debug\net7.0-windows\logCalculator.exe
+E:\AllMyCodingProjects\Home\logCalculator\bin\Debug\net7.0-windows\logCalculator.deps.json
+E:\AllMyCodingProjects\Home\logCalculator\bin\Debug\net7.0-windows\logCalculator.runtimeconfig.json
+E:\AllMyCodingProjects\Home\logCalculator\bin\Debug\net7.0-windows\logCalculator.dll
+E:\AllMyCodingProjects\Home\logCalculator\bin\Debug\net7.0-windows\logCalculator.pdb
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.csproj.AssemblyReference.cache
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.csproj.GenerateResource.cache
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.AssemblyInfoInputs.cache
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.AssemblyInfo.cs
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.csproj.CoreCompileInputs.cache
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.dll
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\refint\logCalculator.dll
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.pdb
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.genruntimeconfig.cache
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\ref\logCalculator.dll
+E:\AllMyCodingProjects\Home\logCalculator\obj\Debug\net7.0-windows\logCalculator.HypeLog.resources
